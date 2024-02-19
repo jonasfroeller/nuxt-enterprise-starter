@@ -40,6 +40,7 @@ More of nuxt: [nuxt.resources](https://github.com/nuxt/awesome)
   - [ ] [Unlighthouse](https://unlighthouse.dev/integrations/nuxt)
 - **Database**
   - [ ] [MongoDB](https://nuxt.com/modules/nuxt-mongoose)
+  - [ ] [DrizzleORM](https://orm.drizzle.team/)
   - [ ] [Authentication](https://nuxt.com/modules/authjs)
 - **Legal**
   - [ ] [Cookies](https://nuxt.com/modules/cookie-control)
